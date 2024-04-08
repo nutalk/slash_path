@@ -10,7 +10,7 @@
 
 ## 安装
 ```
-$ pip install slash_path
+$ pip install slash-path
 ```
 
 
